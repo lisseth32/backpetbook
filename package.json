@@ -19,6 +19,9 @@
     "type": "git",
     "url": "git://github.com/lisseth/backpetbook.git"
   },
+  "engines" : {
+  	"node" : "8.2.1" 
+  },
   "author": "lisseth",
   "license": ""
 }
